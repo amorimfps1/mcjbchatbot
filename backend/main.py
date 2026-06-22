@@ -78,6 +78,9 @@ Links Úteis
 Site: www.mcjb.org.br
 Ecowork: https://www.mcjb.org.br/ecowork/
 Matrículas e atividades: www.mcjb.org.br (seção produtos)
+
+
+CASO NAO SAIBA RESPONDER A PERGUNTA, ENCAMINHE PARA ALGUM MEIO DE CONTATO DO MCJB
 """
 
 app = FastAPI(title="MCJB Chatbot API")
